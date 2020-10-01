@@ -1,4 +1,8 @@
 Title
 Subtitle
+<<<<<<< HEAD
 Para1
 
+=======
+Para 1
+>>>>>>> parent of d6288e0... mode modifications
