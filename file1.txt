@@ -1,11 +1,3 @@
 Title
 Subtitle
 Para1
-
-<<<<<<< HEAD
-=======
-Para 1
->>>>>>> parent of d6288e0... mode modifications
-para2
-=======
->>>>>>> parent of 0cdd427... modify
